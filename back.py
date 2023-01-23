@@ -1,5 +1,14 @@
 import sys;
+# from bs4 import BeautifulSoup
 # Hard Coded Values to start out with #
+
+
+
+urlBeginning = "https://u.gg/lol/profile/na1/"
+urlEnding = "/overview"
+
+
+
 summonerElo = {
 
         "BUDDA69" : ("Gold", "1", "94"),
